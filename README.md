@@ -1,3 +1,12 @@
+This is the MATSim to OpenDS Converter for the network and population files.
+
+You can run the Converter from the class \src\main\java\org\matsim\project\XmlMatsimToOpenDS2 and
+\src\main\java\org\matsim\trafficConverter\XmlTrafficConverter
+
+Just load in the path for the population file and choose the output folder
+
+It will convert the MATSim network and plans to a XML file that can be read by OpenDS
+
 # matsim-example-project
 
 A small example of how to use MATSim as a library.
